@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: Tenant Register
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Damey Abraham
+Implementation-Vendor-Id: io.springproject
+Build-Jdk: 1.8.0_261
+Implementation-URL: http://projects.spring.io/spring-boot/tenant-regis
+ ter/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
