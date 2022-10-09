@@ -2,7 +2,7 @@ package com.springproject.tower;
 
 public class Tower {
 
-	private String id;
+	private int id;
 	private String name;
 	private String description;
 
@@ -10,18 +10,18 @@ public class Tower {
 
 	}
 
-	public Tower(String id, String name, String description) {
+	public Tower(int id, String name, String description) {
 		super();
 		this.id = id;
 		this.name = name;
 		this.description = description;
 	}
 
-	public String getId() {
+	public int getId() {
 		return id;
 	}
 
-	public void setId(String id) {
+	public void setId(int id) {
 		this.id = id;
 	}
 
